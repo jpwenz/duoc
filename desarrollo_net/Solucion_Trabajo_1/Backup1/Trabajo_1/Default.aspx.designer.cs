@@ -5,8 +5,8 @@ using System.Web.UI;
 namespace Trabajo_1
 {
 
-    public partial class Default : System.Web.UI.Page
+    public partial class Default
     {
-        
+        protected System.Web.UI.WebControls.Button button1;
     }
 }

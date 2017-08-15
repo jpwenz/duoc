@@ -1,0 +1,6 @@
+C:\Users\fwenzel\Documents\DEV\duoc\desarrollo_net\Solucion_Trabajo_1\Trabajo_1\bin\Trabajo_1.dll.config
+C:\Users\fwenzel\Documents\DEV\duoc\desarrollo_net\Solucion_Trabajo_1\Trabajo_1\bin\Trabajo_1.dll
+C:\Users\fwenzel\Documents\DEV\duoc\desarrollo_net\Solucion_Trabajo_1\Trabajo_1\bin\Trabajo_1.pdb
+C:\Users\fwenzel\Documents\DEV\duoc\desarrollo_net\Solucion_Trabajo_1\Trabajo_1\obj\Debug\Trabajo_1.csprojResolveAssemblyReference.cache
+C:\Users\fwenzel\Documents\DEV\duoc\desarrollo_net\Solucion_Trabajo_1\Trabajo_1\obj\Debug\Trabajo_1.dll
+C:\Users\fwenzel\Documents\DEV\duoc\desarrollo_net\Solucion_Trabajo_1\Trabajo_1\obj\Debug\Trabajo_1.pdb
